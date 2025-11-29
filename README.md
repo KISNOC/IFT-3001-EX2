@@ -1,4 +1,4 @@
-# Dynamic Programming - Problème de eendre la monnaie | Give change back problem
+# Dynamic Programming - Problème de rendre la monnaie | Give change back problem
 
 *** English section below ***
 
